@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Molly's H&M Application</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            text-align: center;
+            padding: 30px;
+            background-color: #333;
+            color: white;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .content {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .contact {
+            margin-top: 20px;
+            font-style: italic;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Molly's H&M Job Application</h1>
+</header>
+
+<div class="content">
+    < img src="your-photo.jpeg" alt="Molly's Photo">
+    <p>Hello!</p >
+    <p>My name is Molly, and I am currently an international student studying a foundation course at a language school in New Zealand. Before coming to New Zealand, I gained seven years of work experience in China, two to three of which were closely related to apparel sales.</p >
+    <ul>
+        <li>In 2016, while studying in Suzhou, I worked part-time at the local H&M store for over a year.</li>
+        <li>From 2017 to 2019, I served as a store manager for a large apparel company in Chongqing called “Chongqing Liangying Garment Co., Ltd.”</li>
+        <li>In 2021, I worked at Starbucks in Shanghai for over a year, further enhancing my customer service and management skills.</li>
+        <li>In 2022, I co-founded a design company in Shanghai and served as managing director until I came to New Zealand.</li>
+    </ul>
+    <p>I am passionate about apparel sales and enjoy helping customers find the right products. My experience working part-time at the H&M store in Suzhou is something I cherish. It gave me a deep understanding of H&M’s values, which I genuinely admire. Now, I hope to rejoin the H&M team during my studies in New Zealand, contributing my experience and enthusiasm while growing alongside the company.</p >
+    <p class="contact">
+        Contact Information:<br>
+        Email: molly05861@gmail.com<br>
+        Phone: +64 27 5577 618
+    </p >
+</div>
+
+<footer>
+    <p>Thank you for your time and consideration!</p >
+</footer>
+
+</body>
+</html>
